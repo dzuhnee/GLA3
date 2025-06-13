@@ -71,7 +71,7 @@ public class LibraryApp {
         books[bookCount++] = new Book("The Midnight Library", "Matt", "Haig", 2020);
         books[bookCount++] = new Book("Educated", "Tara", "Westover", 2018);
         books[bookCount++] = new Book("The Book Thief", "Markus", "Zusak", 2005);
-        books[bookCount++] = new Book("The Subtle Art of Not Giving a F*ck", "Mark", "Manson", 2016);
+        books[bookCount++] = new Book("Interlinked", "Mark", "Manson", 2016);
 
 
         borrowers[borrowerCount++] = new Borrower("Nathalie Lim-Cheng");
